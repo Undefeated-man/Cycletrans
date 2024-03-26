@@ -1,6 +1,6 @@
 # Cycletrans
 The official implement of "CycleTrans: a transformer-based clinical foundation model for safer prescription".
-Consider the recommender problems as a translation problem, and using a cycle transformer to address this problem. Details please read the paper, [`CycleTrans: a transformer-based clinical foundation model for safer prescription`]().
+Consider the recommender problems as a translation problem, and using a cycle transformer to address this problem. Details please read the paper, [`CycleTrans: a transformer-based clinical foundation model for safer prescription`](https://openreview.net/pdf?id=DDImhCbXpo).
 
 ## Model architecture
 <img src="https://github.com/Undefeated-man/Cycletrans/assets/51683546/6e876f4d-2637-4a7c-b318-202a63306d53" alt="image" style="zoom:15%;" />
